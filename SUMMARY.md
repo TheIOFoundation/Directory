@@ -13,16 +13,6 @@
 
 ## People
 
-* [tempeh](people/tempeh/README.md)
-  * [Jean F. Queralt](people/tempeh/jean-f.-queralt/README.md)
-    * [TEST](people/tempeh/jean-f.-queralt/test.md)
-  * [John Dueñas](people/tempeh/john-duenas.md)
-  * [Maryam Lee](people/tempeh/maryam-lee.md)
-  * [Dzareen Shamsir](people/tempeh/dzareen-shamsir.md)
-  * [Norina Yahya](people/tempeh/norina-yahya.md)
-  * [Pavel Farhan](people/tempeh/pavel-farhan.md)
-  * [Mervilyn Pampliega](people/tempeh/mervilyn-pampliega.md)
-  * [Len Manriquez](people/tempeh/len-manriquez.md)
 * [Alphabetical List](people/alphabetical-list/README.md)
   * [🚧 0](people/alphabetical-list/0.md)
   * [🚧 1](people/alphabetical-list/1.md)
@@ -60,7 +50,16 @@
   * [🚧 X](people/alphabetical-list/x.md)
   * [🚧 Y](people/alphabetical-list/y.md)
   * [🚧 Z](people/alphabetical-list/z.md)
-
+* [tempeh](people/tempeh/README.md)
+  * [Jean F. Queralt](people/tempeh/jean-f.-queralt/README.md)
+    * [TEST](people/tempeh/jean-f.-queralt/test.md)
+  * [John Dueñas](people/tempeh/john-duenas.md)
+  * [Maryam Lee](people/tempeh/maryam-lee.md)
+  * [Dzareen Shamsir](people/tempeh/dzareen-shamsir.md)
+  * [Norina Yahya](people/tempeh/norina-yahya.md)
+  * [Pavel Farhan](people/tempeh/pavel-farhan.md)
+  * [Mervilyn Pampliega](people/tempeh/mervilyn-pampliega.md)
+  * [Len Manriquez](people/tempeh/len-manriquez.md)
 
 ## Organizations
 
@@ -102,11 +101,6 @@
   * [🚧 Y](organizations/alphabetical-list/y.md)
   * [🚧 Z](organizations/alphabetical-list/z.md)
 
-## Activities
-
-* [Alphabetical List](activities/alphabetical-list.md)
-* [Page 1](activities/page-1.md)
-
 ## TOPICS
 
 * [Artificial Intelligence](topics/artificial-intelligence.md)
@@ -122,3 +116,7 @@
 * [Internet Engineering Task Force (IETF)](internet-engineering-task-force-ietf.md)
 * [Internet Corporation for Assigned Names and Numbers (ICANN)](internet-corporation-for-assigned-names-and-numbers-icann.md)
 * [Internet Governance Forum (IGF)](internet-governance-forum-igf.md)
+
+## Activities
+
+* [Page 1](activities/page-1.md)
