@@ -13,16 +13,16 @@
 
 ## People
 
-* [TEMP](people/alphabetical-list/README.md)
-  * [Jean F. Queralt](people/alphabetical-list/jean-f.-queralt/README.md)
-    * [TEST](people/alphabetical-list/jean-f.-queralt/test.md)
-  * [John Dueñas](people/alphabetical-list/john-duenas.md)
-  * [Maryam Lee](people/alphabetical-list/maryam-lee.md)
-  * [Dzareen Shamsir](people/alphabetical-list/dzareen-shamsir.md)
-  * [Norina Yahya](people/alphabetical-list/norina-yahya.md)
-  * [Pavel Farhan](people/alphabetical-list/pavel-farhan.md)
-  * [Mervilyn Pampliega](people/alphabetical-list/mervilyn-pampliega.md)
-  * [Len Manriquez](people/alphabetical-list/len-manriquez.md)
+* [tempeh](people/tempeh/README.md)
+  * [Jean F. Queralt](people/tempeh/jean-f.-queralt/README.md)
+    * [TEST](people/tempeh/jean-f.-queralt/test.md)
+  * [John Dueñas](people/tempeh/john-duenas.md)
+  * [Maryam Lee](people/tempeh/maryam-lee.md)
+  * [Dzareen Shamsir](people/tempeh/dzareen-shamsir.md)
+  * [Norina Yahya](people/tempeh/norina-yahya.md)
+  * [Pavel Farhan](people/tempeh/pavel-farhan.md)
+  * [Mervilyn Pampliega](people/tempeh/mervilyn-pampliega.md)
+  * [Len Manriquez](people/tempeh/len-manriquez.md)
 
 ## Organizations
 
