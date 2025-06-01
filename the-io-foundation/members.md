@@ -1,2 +1,6 @@
+---
+icon: people-group
+---
+
 # Members
 

@@ -8,6 +8,7 @@
 * [Board of Directors](the-io-foundation/board-of-directors.md)
 * [Board of Advisers](the-io-foundation/board-of-advisers.md)
 * [Members](the-io-foundation/members.md)
+* [Associates](the-io-foundation/associates.md)
 * [Fellows](the-io-foundation/fellows.md)
 * [Interns](the-io-foundation/interns.md)
 * [Volunteers](the-io-foundation/volunteers.md)
