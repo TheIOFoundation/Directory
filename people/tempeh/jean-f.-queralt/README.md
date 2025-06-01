@@ -1,3 +1,7 @@
+---
+icon: user-vneck
+---
+
 # Jean F. Queralt
 
 Jean F. Queralt (John) is the Founder and CEO of [The IO Foundation](https://theiofoundation.org), a tech nonprofit advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAbout).

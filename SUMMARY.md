@@ -50,7 +50,7 @@
   * [🚧 X](people/alphabetical-list/x.md)
   * [🚧 Y](people/alphabetical-list/y.md)
   * [🚧 Z](people/alphabetical-list/z.md)
-* [tempeh](people/tempeh/README.md)
+* [TIOF Members](people/tempeh/README.md)
   * [Jean F. Queralt](people/tempeh/jean-f.-queralt/README.md)
     * [TEST](people/tempeh/jean-f.-queralt/test.md)
   * [John Dueñas](people/tempeh/john-duenas.md)
@@ -157,4 +157,3 @@
   * [🚧 X](activities/alphabetical-list/x.md)
   * [🚧 Y](activities/alphabetical-list/y.md)
   * [🚧 Z](activities/alphabetical-list/z.md)
-
