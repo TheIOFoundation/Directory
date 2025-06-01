@@ -2,5 +2,5 @@
 icon: hexagon-image
 ---
 
-# ITU Habitat
+# ICANN Habitat
 

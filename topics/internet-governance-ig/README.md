@@ -2,5 +2,5 @@
 icon: hexagon-xmark
 ---
 
-# Artificial Intelligence
+# Internet Governance (IG)
 

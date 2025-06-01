@@ -110,17 +110,14 @@
 * [Introduction](topics/introduction.md)
 * [Artificial Intelligence](topics/artificial-intelligence.md)
 * [Standard Developing Organizations (SDOs)](topics/standard-developing-organizations-sdos/README.md)
-  * [IETF Habitat](topics/standard-developing-organizations-sdos/ietf-habitat.md)
-  * [ICANN Habitat](topics/standard-developing-organizations-sdos/icann-habitat.md)
+  * [IETF Habitat](topics/standard-developing-organizations-sdos/ietf-habitat/README.md)
+    * [Internet Engineering Task Force (IETF)](topics/standard-developing-organizations-sdos/ietf-habitat/internet-engineering-task-force-ietf.md)
+  * [ICANN Habitat](topics/standard-developing-organizations-sdos/icann-habitat/README.md)
+    * [Internet Corporation for Assigned Names and Numbers (ICANN)](topics/standard-developing-organizations-sdos/icann-habitat/internet-corporation-for-assigned-names-and-numbers-icann.md)
   * [ITU Habitat](topics/standard-developing-organizations-sdos/itu-habitat.md)
 * [Policy Developing Organizations (PDOs)](topics/policy-developing-organizations-pdos.md)
-* [Internet Governance (IG)](topics/internet-governance-ig.md)
-
-***
-
-* [Internet Engineering Task Force (IETF)](internet-engineering-task-force-ietf.md)
-* [Internet Corporation for Assigned Names and Numbers (ICANN)](internet-corporation-for-assigned-names-and-numbers-icann.md)
-* [Internet Governance Forum (IGF)](internet-governance-forum-igf.md)
+* [Internet Governance (IG)](topics/internet-governance-ig/README.md)
+  * [Internet Governance Forum (IGF)](topics/internet-governance-ig/internet-governance-forum-igf.md)
 
 ## Activities
 
